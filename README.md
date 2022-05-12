@@ -5,3 +5,4 @@
 4. 소고기를 볶는다.
 5. 계란 후라이를 굽는다.
 6. 밥위에 같은 나물의 색이 이웃하지 않도록 올린다.
+    ![비빔밥_이미지](https://recipe1.ezmember.co.kr/cache/recipe/2020/09/18/a8f403faba5efb64bd7f2255a7790d9f1.jpg)
